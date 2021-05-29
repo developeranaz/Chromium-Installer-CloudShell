@@ -1,5 +1,7 @@
 # Chromium-Installer-CloudShell
 This installs Chromium browser and fix " ERROR:zygote_host_impl_linux.cc(90)] Running as root without --no-sandbox is not supported."
+
+# Just copy the below code and paste in cloudshell 👇
 ```
 curl 'https://raw.githubusercontent.com/developeranaz/Chromium-Installer-CloudShell/main/Chromium-installer.sh' |bash
 ```
